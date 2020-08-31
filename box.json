@@ -19,14 +19,14 @@
 		{
 			"kind": "styling",
 			"tag": "com-demo-gauge-sps",
-			"url": "https://github.com/jteemu/SAC/blob/master/box_bps.js",
+			"url": "https://raw.githubusercontent.com/jteemu/SACWidget/master/box/box_bps.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		},
 		{
 			"kind": "builder",
 			"tag": "com-demo-box-bps",
-			"url": "https://github.com/jteemu/SAC/blob/master/box_sps.js",
+			"url": "https://raw.githubusercontent.com/jteemu/SACWidget/master/box/box_sps.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		}
