@@ -49,5 +49,5 @@
 		}
 	}
 
-	customElements.define("com-demo-gauge", BoxBps);
+	customElements.define("com-demo-box-bps", BoxBps);
 })();
