@@ -43,4 +43,4 @@
 		}
 	}
 
-customElements.define("com-demo-gauge", BoxSps);
+customElements.define("com-demo-gauge-sps", BoxSps);
