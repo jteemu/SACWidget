@@ -12,7 +12,7 @@
 		{
 			"kind": "main",
 			"tag": "com-demo-gauge",
-			"url": "https://github.com/jteemu/SAC/blob/master/box.js",
+			"url": "https://raw.githubusercontent.com/jteemu/SACWidget/master/box/box.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		},
