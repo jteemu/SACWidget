@@ -13,21 +13,21 @@
 			"kind": "main",
 			"tag": "com-demo-gauge",
 			"url": "https://raw.githubusercontent.com/jteemu/SACWidget/master/box/box.js",
-			"integrity": "",
+			"integrity": "1",
 			"ignoreIntegrity": true
 		},
 		{
 			"kind": "styling",
 			"tag": "com-demo-gauge-sps",
 			"url": "https://raw.githubusercontent.com/jteemu/SACWidget/master/box/box_bps.js",
-			"integrity": "",
+			"integrity": "1",
 			"ignoreIntegrity": true
 		},
 		{
 			"kind": "builder",
 			"tag": "com-demo-box-bps",
 			"url": "https://raw.githubusercontent.com/jteemu/SACWidget/master/box/box_sps.js",
-			"integrity": "",
+			"integrity": "1",
 			"ignoreIntegrity": true
 		}
 	],
